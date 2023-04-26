@@ -13,5 +13,5 @@ root.render(
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals -- dev TEST 222 main에서 테스트 dev엣 테스트??? --> ljm_test
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals -- dev TEST 222 main에서 테스트 dev엣 테스트??? --> ljm_test 2222
 reportWebVitals();
